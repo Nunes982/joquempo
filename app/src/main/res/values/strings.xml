@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pedra Papel Tesoura </string>
+    <string name="txt_escolha_do_app">Escolha do app</string>
+    <string name="txt_escolha_uma_op_abaixo">Escolha uma opção abaixo</string>
+    <string name="cd_op_escolhida_pelo_app">Opção escolhida pelo App</string>
+    <string name="cd_image_pedra">Image Pedra</string>
+    <string name="cd_imagem_papel">Imagem Papel</string>
+    <string name="cd_imagem_tesoura">Imagem Tesoura</string>
+    <string name="txt_AppGanhador">Você Perdeu :(</string>
+    <string name="txt_UsuarioGanhador">Você Ganhou :)</string>
+    <string name="txt_EmpateTecnico">Empatamos ;)</string>
+</resources>
